@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<effect>
+	<particle position-x="0" position-y="0" position-z="16" lifetime="1">
+		<emitter>
+			<animation imageset="graphics/particles/brainwave.png" width="80" height="80">
+				<sequence start="0" end="2" delay="50"/>
+			</animation>
+			<property name="lifetime" value="15"/>
+			<property name="output" value="1"/>
+		</emitter>
+	</particle>
+</effect>

@@ -531,4 +531,18 @@
         <sprite>monsters/snowflower.xml</sprite>
     </monster>
 
+    <monster id="94" name="Lost Mind">
+        <sprite>monsters/brain.xml</sprite>
+    <attack id="1" effect-id="402"
+            action="attack"/>
+    </monster>
+
+    <monster id="95" name="Forgotten Soul">
+        <sprite>monsters/wraith.xml</sprite>
+    </monster>
+
+    <monster id="96" name="Lost Soul">
+        <sprite>monsters/spook.xml</sprite>
+    </monster>
+
 </monsters>

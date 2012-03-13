@@ -77,6 +77,7 @@
     <!-- Monster attack particle effects -->
     <effect id="400" particle="graphics/particles/monster-goblin-firebreath.particle.xml"/>
     <effect id="401" particle="graphics/particles/monster-lizard-firebreath.particle.xml"/>
+    <effect id="402" particle="graphics/particles/brainwave.xml"/>
 
     <!-- Emotion Effects -->
     <effect id="10000" particle="graphics/particles/emotes/emote-disgust.particle.xml"/>
